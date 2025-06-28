@@ -1,1 +1,7 @@
-this is where we want to look at pictures
+It is HOT.   
+just somthing to write
+.
+.
+I changed this when I came back
+ok here is more
+added this line for git commit
